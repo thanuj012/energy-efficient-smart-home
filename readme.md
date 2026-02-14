@@ -1,4 +1,4 @@
-# 🏠 Smart AI-Based Home Energy Monitoring & Automation System
+# 🏠 SMART AUTO-ASSIST HOME SAFETY SYSTEM
 
 ### ESP32 + ESP32-S3-BOX3 Hackathon Project
 
@@ -226,3 +226,4 @@ Focus: Energy Intelligence + Automation + Safety
 ## 📜 License
 
 Open-source for educational and research use.
+
